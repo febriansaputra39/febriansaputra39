@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 <h5 align="left">Play Game with me</h5>
 
 ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/output/pacman-contribution-graph.svg">
