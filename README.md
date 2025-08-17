@@ -1,6 +1,6 @@
 ## Hi, I’m Febrian Saputra
 
-![Header](https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/main/img/github-header.png)
+![Header](https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/main/img/github-header-banner.png)
 
 <!--
 **febriansaputra39/febriansaputra39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
