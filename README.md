@@ -1,5 +1,3 @@
-## Hi, I’m Febrian Saputra
-
 ![Header](https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/main/img/github-header-banner.png)
 
 <!--
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **PHP,HTML,CSS,XAMPP and Javascript**
+- 🌱 I’m currently learning **PHP, HTML, CSS, XAMPP and Javascript**
