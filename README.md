@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 
 <h5 align="left">Play Game with me</h5>
 
-### 🐍 Snake Contributions
+###
 ![Snake animation](https://raw.githubusercontent.com/febriansaputra39/febriansaputra39/output/github-contribution-grid-snake.svg)
-
+###
