@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **PHP, HTML, CSS, XAMPP and Javascript**
+🌱 I’m currently learning **PHP, HTML, CSS, REACT, XAMPP, and Javascript**
 
 ##### My Skills
 
