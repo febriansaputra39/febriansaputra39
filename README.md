@@ -18,7 +18,7 @@
 ##### My Tools
 
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a><br>
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Anti gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 ##### My AI
 
