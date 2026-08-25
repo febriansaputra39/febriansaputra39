@@ -18,11 +18,11 @@
 ##### My Tools
 
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a><br>
-<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Anti gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Anti_gravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 ##### My AI
 
-<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white" /></a><br>
+<a href="https://chatgpt.com" target="_blank"><img src="https://img.shields.io/badge/Chat_GPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white" /></a><br>
 <a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></a>
 
 ##### Social Media
