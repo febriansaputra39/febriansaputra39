@@ -28,8 +28,7 @@
 
 ##### Social Media
 
-<a href="https://www.tiktok.com/@ff.mas_feb17" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a><br>
-
+<a href="https://www.tiktok.com/@ff.mas_feb17" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a>
 <a href="https://instagram.com/febriyan_saputra39" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 ##### Streaming Services
